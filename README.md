@@ -6,6 +6,6 @@
 
 ![Farmers Market Finder Demo](demo/ee-web.gif)
 
-### Web Mobile
+### Mobile Platform
 
 ![Farmers Market Finder Demo](demo/ee-mobile.gif)
