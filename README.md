@@ -2,5 +2,10 @@
 
 ## Demo
 
+### Web Platform
+
 ![Farmers Market Finder Demo](demo/ee-web.gif)
+
+### Web Mobile
+
 ![Farmers Market Finder Demo](demo/ee-mobile.gif)
